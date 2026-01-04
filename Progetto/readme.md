@@ -1,5 +1,5 @@
-
-## Progetto — Traccia (FilmSphere)
+# Progetto
+## Traccia: FilmSphere
 
 ### Obiettivo
 Progettare e realizzare un database relazionale (MySQL) per **FilmSphere**, un servizio di memorizzazione e **streaming** di contenuti video online, includendo alcune funzionalità di **data analytics**.
